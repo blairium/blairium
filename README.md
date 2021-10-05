@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @blairium
+- 👀 I’m interested in python for physics and data science
+- 🌱 I’m currently learning GIS and SQL
